@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MY ID APP</string>
+    <string name="submit">SUBMIT</string>
+    <string name="cancel">CANCEL</string>
+    <string name="this_is_result">This is result</string>
+    <string name="enter_the_id_here">Enter the ID here</string>
+    <string name="id_can_t_be_empty">ID can\'t be empty</string>
+    <string name="invalid_id_length_should_be_13">Invalid ID. Length should be 13</string>
+
+</resources>
